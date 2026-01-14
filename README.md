@@ -41,8 +41,7 @@ There is **no backend or database** involved in this project.
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/latishcoder/K72-yt.git
 ## 👨‍💻 Author
 
 Created by **Latish Salunkhe**
